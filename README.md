@@ -1,3 +1,3 @@
-Justin Richardson's Airport Map
+## Justin Richardson's Airport Map
 
-![Map](/images/map.jpg)
+!(/images/map.jpg)
