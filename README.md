@@ -1,3 +1,3 @@
 ## Justin Richardson's Airport Map
 
-!(/images/map.jpg)
+!(/https://github.com/Jar3p0/JustinRichardsonAirportMap/main/images/map.jpg?raw=true)
